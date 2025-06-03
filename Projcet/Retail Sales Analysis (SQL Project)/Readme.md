@@ -1,4 +1,4 @@
-# 🛍️ Retail Sales Analysis (SQL Project)
+# 🛍️ Retail Sales Analysis 
 
 A beginner-friendly SQL project that explores a synthetic retail sales dataset to uncover business insights. Perfect for SQL portfolio building.
 
