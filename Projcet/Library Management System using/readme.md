@@ -203,7 +203,7 @@ BEGIN
         SIGNAL SQLSTATE '45000' SET MESSAGE_TEXT = 'Book is currently not available';
     END IF;
 END //
-
+```
 
 
 ## 📈 Reports & Analysis
