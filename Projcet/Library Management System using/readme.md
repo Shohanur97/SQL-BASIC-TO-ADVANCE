@@ -216,7 +216,7 @@ This project includes comprehensive reporting and data analysis capabilities to 
 
 ### Data Analysis Highlights
 
-* **Book Categories:** Analysis of popular book categories based on rental frequency and revenue generated.
+ **Book Categories:** Analysis of popular book categories based on rental frequency and revenue generated.
 * **Employee Salaries:** Insights into salary distribution across positions and branches, helping assess staffing budgets.
 * **Member Registration Trends:** Identification of new member sign-ups over specific periods to track library growth and engagement.
 * **Issued Books:** Monitoring of books issued, frequency of returns, and overdue records to maintain inventory and enforce policies.
