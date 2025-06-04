@@ -1,0 +1,21 @@
+emp_id,emp_name,position,salary,branch_id
+E001,Mario Sanchez,Librarian,7790.29,B005
+E002,Rebekah Werner,Clerk,4723.07,B002
+E003,Daniel Casey,Assistant,5190.67,B002
+E004,Stephen Coffey,Assistant,4728.53,B002
+E005,Antonio Brown,Librarian,6692.85,B003
+E006,Mrs. Natasha Hawkins,Librarian,7214.89,B005
+E007,Shelly Davis,Manager,3837.57,B002
+E008,Alicia Morris,Assistant,7509.03,B005
+E009,Michael Gonzalez,Assistant,6352.38,B002
+E010,Casey Mcguire,Manager,4695.18,B002
+E011,Andrew Bishop,Manager,6795.27,B004
+E012,Margaret Smith,Clerk,4846.87,B004
+E013,Kimberly Boyer,Clerk,3397.83,B005
+E014,Stephanie Skinner,Manager,5827.59,B005
+E015,Mary Crawford,Clerk,4442.8,B005
+E016,Kathy Franklin,Clerk,6218.32,B001
+E017,Douglas Dunn,Assistant,7443.24,B005
+E018,Richard Bennett,Librarian,6146.72,B002
+E019,Tyler Brown,Clerk,7986.84,B001
+E020,Carla Figueroa,Assistant,4026.49,B002
