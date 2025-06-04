@@ -214,8 +214,6 @@ This project includes comprehensive reporting and data analysis capabilities to 
 
 * Clearly defined tables with primary and foreign keys ensure data integrity and proper relationships among branches, employees, members, books, and transactions.
 
-Here is your content reformatted in clean **GitHub README-style markdown** using bold headings, bullet points, and consistent spacing:
-
 ---
 
 ### 📊 **Data Analysis Highlights**
