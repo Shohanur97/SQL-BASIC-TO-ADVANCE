@@ -1,6 +1,4 @@
 
-Sure! Here’s a clean, natural, and professional GitHub README intro section written in that style for your Library Management System SQL project:
-
 ## 📚 Project Overview
 
 **Project Title:** Library Management System (SQL)
